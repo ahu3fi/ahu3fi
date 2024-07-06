@@ -18,18 +18,17 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=ahu3fi&style=flat-square&color=blue" alt="Profile Views"/>
-    <div align="center">
-        <h2>🛠️ Skills & Technologies</h2>
-        <p>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="margin: 10px;"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" alt="CSharp" width="40" height="40" style="margin: 10px;"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" style="margin: 10px;"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="PremierePro" width="40" height="40" style="margin: 10px;"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="PhotoShop" alt="PhotoShop" width="40" height="40" style="margin: 10px;"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="margin: 10px;"/>&nbsp;
-        </p>
-    </div>
-
+    <p>
+        <font size="4">🛠️ Skills & Technologies</font>
+    </p>
+    <p>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="margin: 10px;"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" alt="CSharp" width="40" height="40" style="margin: 10px;"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" style="margin: 10px;"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="PremierePro" width="40" height="40" style="margin: 10px;"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="PhotoShop" alt="PhotoShop" width="40" height="40" style="margin: 10px;"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="margin: 10px;"/>&nbsp;
+    </p>
 </div>
 
 
