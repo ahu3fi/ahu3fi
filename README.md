@@ -8,14 +8,14 @@
     <p>I prefer to work at home 🏡, also I always try to focus on my work and project.</p>
     <p>You can contact me on Telegram, LinkedIn or send an email. 👇</p>
     <p>I will be happy to work together. 🤝</p>
-    <a href="mailto:your-email@example.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" style="margin: 50px;"/>
+    <a href="mailto:your-email@example.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" style="margin-right: 10px;"/>
     </a>
-    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin: 50px;"/>
+    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 10px;"/>
     </a>
-    <a href="https://t.me/your-telegram-username" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" style="margin: 50px;"/>
+    <a href="https://t.me/your-telegram-username" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" style="margin-right: 10px;"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=ahu3fi&style=flat-square&color=blue" alt="Profile Views"/>
     <div style="margin-bottom: 45px;">
