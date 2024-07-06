@@ -22,7 +22,7 @@
     </a>
 </div>
 
-<div align="center">
+<div align="center style="margin: 45px;">
     <h3>🛠️ <b>Skills & Technologies</b></h3>
     <p>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="margin: 0 20px;"/>
@@ -40,7 +40,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahu3fi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div align="center" style="margin: 45px 0;">
+<div align="center" style="margin: 45px;">
     <img src="https://komarev.com/ghpvc/?username=ahu3fi&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
