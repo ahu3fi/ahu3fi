@@ -34,16 +34,12 @@
     </p>
 </div>
 
-<div align="center" style="margin-bottom: 35px;">
+<div align="center" style="margin-bottom: 45px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahu3fi&theme=github_dark" alt="ahu3fi's GitHub Stats"/>
 </div>
 
-
-<br>
-
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahu3fi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 
 <h3 align="center">
     <img src="https://komarev.com/ghpvc/?username=ahu3fi&style=flat-square&color=blue" alt="Profile Views"/>
