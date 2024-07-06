@@ -10,18 +10,16 @@
     <p>I prefer to work at home 🏡, also I always try to focus on my work and project.</p>
     <p>You can contact me on Telegram, LinkedIn or send an email. 👇</p>
     <p>I will be happy to work together. 🤝</p>
-    <a href="mailto:mdtaqui.jhar@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <a href="mailto:your-email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
-    <a href="https://twitter.com/Taquiimam14" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://linkedin.com/in/taqui-imam" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <a href="https://t.me/your-telegram-username" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://tinyurl.com/MdTaquiImam" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=ahu3fi&style=flat-square&color=blue" alt="Profile Views"/>
     <h2>🛠️ Skills & Technologies</h2>
     <p>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
