@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=3000&pause=1500&color=0DBAFF&background=FFFFFF00&center=true&random=false&width=800&height=160&lines=Hello+%F0%9F%91%8B+;Welcome+to+my+Github+profile+%F0%9F%98%80;My+name+is+AmirHossein+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Scroll+to+know+more+about+me+%F0%9F%91%87" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=3000&pause=1500&color=0DBAFF&background=FFFFFF00&center=true&random=false&width=1000&height=160&lines=Hello+%F0%9F%91%8B+;Welcome+to+my+Github+profile+%F0%9F%98%80;My+name+is+AmirHossein+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Scroll+to+know+more+about+me+%F0%9F%91%87" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -43,5 +43,5 @@
 <br>
 
 <h3 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=3000&pause=1500&color=37C800&background=FFFFFF00&center=true&random=false&width=800&height=160&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Linkedin+or+Telegram!;I'm+always+down+to+collab+%F0%9F%98%89" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=3000&pause=1500&color=0DBAFF&background=FFFFFF00&center=true&random=false&width=800&height=160&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Linkedin+or+Telegram!;I'm+always+down+to+collab+%F0%9F%98%89" alt="Typing SVG" /></a>
 </h3>
