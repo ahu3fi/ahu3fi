@@ -34,7 +34,7 @@
     </p>
 </div>
 
-<div align="center" style="margin-bottom: 80px;">
+<div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahu3fi&theme=github_dark" alt="ahu3fi's GitHub Stats"/>
 </div>
 
