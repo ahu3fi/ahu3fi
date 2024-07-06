@@ -1,8 +1,4 @@
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+AmirHossein; Welcome+To..;..my+Github..; Scroll+to+know+more...;about+me...;..👨‍💻.." alt="Typing SVG"/>
-    </h1>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoid&duration=3000&pause=1500&color=0DBAFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B+;Welcome+to+my+Github+profile+%F0%9F%98%80;My+name+is+AmirHossein+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Scroll+to+know+more+about+me+%F0%9F%91%87)](https://git.io/typing-svg)
 
 <div align="center">
     <h2>🚀 About Me</h2>
