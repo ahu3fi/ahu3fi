@@ -6,9 +6,10 @@
 
 <div align="center">
     <h1>🚀 About Me</h1>
-    <p>I am <bold>Amirhossein Yousefi</bold>, a programmer and game developer with Unity engine, video editor, etc. from Iran/Tehran.</p>
+    <p>I am <b>Amirhossein Yousefi</b>, a programmer and game developer with Unity engine, video editor, etc. from Iran/Tehran.</p>
     <p>I prefer to work at home 🏡, also I always try to focus on my work and project.</p>
-    <p>you can Contact me on Telegram and LinkedIn 👇, I will be happy to work together. 🤝</p>
+    <p>You can contact me on Telegram, LinkedIn or send an email. 👇</p>
+    <p>I will be happy to work together. 🤝</p>
     <a href="mailto:mdtaqui.jhar@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
