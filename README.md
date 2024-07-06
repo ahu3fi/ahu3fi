@@ -18,8 +18,11 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=ahu3fi&style=flat-square&color=blue" alt="Profile Views"/>
+    <div style="margin-bottom: 20px;">
+        <br>
+    </div>
     <p>
-        <font size="4">🛠️ Skills & Technologies</font>
+        <font size="6">🛠️ Skills & Technologies</font>
     </p>
     <p>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="margin: 10px;"/>&nbsp;
