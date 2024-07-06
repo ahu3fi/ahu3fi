@@ -8,6 +8,9 @@
     <p>I prefer to work at home 🏡, also I always try to focus on my work and project.</p>
     <p>You can contact me on Telegram, LinkedIn or send an email. 👇</p>
     <p>I will be happy to work together. 🤝</p>
+    <div style="margin-bottom: 25px;">
+        <br>
+    </div>
     <a href="https://t.me/your-telegram-username" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
     </a>
