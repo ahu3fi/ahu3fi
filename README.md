@@ -10,10 +10,10 @@
     <p>I will be happy to work together. 🤝</p>
     <div style="margin-bottom: 20px;">
         <a href="https://t.me/your-telegram-username" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" style="margin-right: 10px;"/>
+            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" style="margin-right: 100px;"/>
         </a>
         <a href="https://linkedin.com/in/your-linkedin-username" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 10px;"/>
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 100px;"/>
         </a>
         <a href="mailto:your-email@example.com" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" style="margin-right: 10px;"/>
