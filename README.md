@@ -38,10 +38,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahu3fi&theme=github_dark" alt="ahu3fi's GitHub Stats"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahu3fi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahu3fi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<h3 align="center">
+<h3 align="center" style="margin-bottom: 45px;">
     <img src="https://komarev.com/ghpvc/?username=ahu3fi&style=flat-square&color=blue" alt="Profile Views"/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=3000&pause=1500&color=0DBAFF&background=FFFFFF00&center=true&random=false&width=800&height=160&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message!;I'm+always+down+to+collab+%F0%9F%98%89" alt="Typing SVG" /></a>
 </h3>
