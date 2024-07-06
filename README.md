@@ -14,7 +14,7 @@
     <a href="https://t.me/ahu3fi" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
     </a>
-    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <a href="https://linkedin.com/in/ahu3fi" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:ahu3fi@duck.com">
@@ -34,17 +34,18 @@
     </p>
 </div>
 
+<div align="center" style="margin-bottom: 35px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahu3fi&theme=github_dark" alt="ahu3fi's GitHub Stats"/>
+</div>
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahu3fi&theme=radical&hide_border=true&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahu3fi&theme=github_dark" alt="ahu3fi's GitHub Stats"/>
+
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahu3fi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <h3 align="center">
     <img src="https://komarev.com/ghpvc/?username=ahu3fi&style=flat-square&color=blue" alt="Profile Views"/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=3000&pause=1500&color=0DBAFF&background=FFFFFF00&center=true&random=false&width=800&height=160&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Linkedin+or+Telegram!;I'm+always+down+to+collab+%F0%9F%98%89" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=3000&pause=1500&color=0DBAFF&background=FFFFFF00&center=true&random=false&width=800&height=160&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message!;I'm+always+down+to+collab+%F0%9F%98%89" alt="Typing SVG" /></a>
 </h3>
