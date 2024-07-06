@@ -21,16 +21,14 @@
     <div style="margin-bottom: 35px;">
         <br>
     </div>
+    <h3>🛠️ Skills & Technologies</h3>
     <p>
-        <font size="20">🛠️ Skills & Technologies</font>
-    </p>
-    <p>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="margin: 10px;"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" alt="CSharp" width="40" height="40" style="margin: 10px;"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" style="margin: 10px;"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="PremierePro" width="40" height="40" style="margin: 10px;"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="PhotoShop" alt="PhotoShop" width="40" height="40" style="margin: 10px;"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="margin: 10px;"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="margin: 20px;"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" alt="CSharp" width="40" height="40" style="margin: 20px;"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" style="margin: 20px;"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="PremierePro" width="40" height="40" style="margin: 20px;"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="PhotoShop" alt="PhotoShop" width="40" height="40" style="margin: 20px;"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="margin: 20px;"/>&nbsp;
     </p>
 </div>
 
